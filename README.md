@@ -34,16 +34,7 @@
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
-
-<!-- CONNECTION -->
-<hr>      
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/themanoftalent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/themanoftalent" height="30" width="40" /></a>
-  <a href="https://fb.com/ themanoftalent "target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=" themanoftalent " height="30" width="40" /></a>
-  <a href="https://instagram.com/themanoftalent " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" themanoftalent " height="30" width="40" /></a>
-</p>
-
+<hr>
 
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@themanoftalent)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/themanoftalent) 
