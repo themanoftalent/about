@@ -1,23 +1,20 @@
 <h2 align="center"> ** Hello Folks! ** </h2>
-<h2 align="center"> This is Mehmet AKif CIFCI </h2>
-<h3 align="center">A passionate Machine Learning scientist</h3>
+<h2 align="center"> The ~Dev is Mehmet Akif CIFCI </h2>
+<h3 align="center">A passionate Data Scientist</h3>
 
--  **He is a ***HUGE Data Scicence fan ***⚡ **
--  **He is a hopeful data science developer and researcher **
--  **He is a true science lover and a science fiction frenzy **
--  **He is the founder of [ABV] **
+I have proven myself as a valuable team member and was consistently called upon for large individual as well as team projects. I have excellent analytical skills and am able to work with large amounts of data without getting overwhelmed.
+<hr>
 
-- 🌱 He is currently learning **pytorch tensorflow keras scikit-learn, and UQ**
-
-- 👯 He is looking to collaborate on with machine learning scientist **Machine learning domain**
-
-- 👨‍💻 All of his projects are available at [scholar.google.com]([shorturl.at/fhtCY](https://scholar.google.com/citations?hl=en&user=asfGDHwAAAAJ))
-
+-  **I'm a ***HUGE Data Scicence fan ***⚡ **
+-  **I'm a true science lover and a science fiction frenzy **
+-  **I'm the founder of [ABV] **
+- 💬 Ask me about **Machine Learning**
+- 🌱 I'm currently learning **PyTorch, TensorFlow, Keras,Scikit-learn and UQ**
+- 👯 I'm looking to collaborate on **Machine learning domain**
+- 👨‍💻 All of my projects are available at [scholar.google.com]([shorturl.at/fhtCY](https://scholar.google.com/citations?hl=en&user=asfGDHwAAAAJ))
 - 📝 I regularly write articles on [Medium](https://medium.com/@themanoftalent)
 
-- 💬 Ask me about **Machine Learning**
 <hr>
-<Br>
 <h1>Skills I have! </h1>
 <Br>
   
