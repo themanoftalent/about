@@ -8,11 +8,13 @@ I have proven myself as a valuable team member and was consistently called upon 
 -  **I'm a ***HUGE Data Scicence fan ***⚡ **
 -  **I'm a true science lover and a science fiction frenzy **
 -  **I'm the founder of [ABV] **
-- 💬 Ask me about **Machine Learning**
 - 🌱 I'm currently learning **PyTorch, TensorFlow, Keras,Scikit-learn and UQ**
 - 👯 I'm looking to collaborate on **Machine learning domain**
-- 👨‍💻 All of my projects are available at [scholar.google.com]([shorturl.at/fhtCY](https://scholar.google.com/citations?hl=en&user=asfGDHwAAAAJ))
-- 📝 I regularly write articles on [Medium](https://medium.com/@themanoftalent)
+- 👨‍💻 All of my projects are available at  <a href="https://scholar.google.com/citations?hl=en&user=asfGDHwAAAAJ" target="_blank"><img height="20" src = "https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png?20190206225436"></a>
+- 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@themanoftalent) 
+- 💬 **Ask me ama software& Machine Learning**  <a href="https://wa.me/+905359615714" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="20"/></a>
 
 <hr>
 <h1>Skills I have! </h1>
@@ -34,7 +36,7 @@ I have proven myself as a valuable team member and was consistently called upon 
 <hr>
 
 ## 🌐Socials
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@themanoftalent)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/themanoftalent) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/themanoftalent) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/themanoftalent/)
 [<img src="https://img.shields.io/github/followers/themanoftalent?label=follow&style=social" height="22" title="Follow me" />](https://github.com/themanoftalent) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/themanoftalent)
