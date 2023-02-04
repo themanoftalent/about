@@ -2,7 +2,10 @@
 <h2 align="center"> The ~Dev is Mehmet Akif CIFCI </h2>
 <h3 align="center">A passionate Data Scientist</h3>
 
-I have proven myself as a valuable team member and was consistently called upon for large individual as well as team projects. I have excellent analytical skills and am able to work with large amounts of data without getting overwhelmed.
+Dr. Mehmet Akif CIFCI is a well-respected computer scientist and educator holding a PhD in computer science and over a decade of experience. He is currently employed at Tu Wien University, where he focuses on research and development in OWL. Aside from Tu Wien, Dr. CIFCI has taught at Istanbul Topkapi University, Bandirma Onyedi Eylul University, and Klaipeda University, demonstrating his expertise in clear and accessible teaching methods. He possesses extensive knowledge in machine learning, image processing, NLP, food safety, and data analysis, and is a member of IEEE and CMC. Furthermore, he is a founding member of ABV, a organization dedicated to promoting computer science and educating future generations.<br>
+Dr. Cifci is a highly motivated and proficient computer engineer, who is passionate about advancing technology. He is a well-regarded researcher in the field of machine learning and has published several papers in sentiment classification, medical image diagnosis, and wireless sensor network optimization. He strives to constantly improve his skills and expand the field. <br>
+Computers hold a special place in Dr. Cifci's life, as they serve not only as tools, but also sources of inspiration and meaning. He stays up-to-date with the latest advancements in technology, always eager to learn and innovate. Dr. Cifci's dedication to his work and expertise in machine learning make him a valuable asset to the computer science community. He is honored to be a part of this dynamic and innovative subject, and is determined to find real-world solutions through his research.
+
 <hr>
 
 -  **I'm a ***HUGE Data Scicence fan ***⚡ **
@@ -12,9 +15,7 @@ I have proven myself as a valuable team member and was consistently called upon 
 - 👯 I'm looking to collaborate on **Machine learning domain**
 - 👨‍💻 All of my projects are available at  <a href="https://scholar.google.com/citations?hl=en&user=asfGDHwAAAAJ" target="_blank"><img height="20" src = "https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png?20190206225436"></a>
 - 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@themanoftalent) 
-- 💬 **Ask me ama software& Machine Learning**  <a href="https://wa.me/+905359615714" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="20"/></a>
+
 
 <hr>
 <h1>Skills I have! </h1>
