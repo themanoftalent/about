@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Data Scientist</h3>
 
 Dr. Mehmet Akif CIFCI is a renowned computer scientist and educator who holds a PhD in computer science and boasts over a decade of experience in the field. Currently, he is working at Tu Wien University in Austria where he conducts research and development in OWL. Dr. CIFCI has taught computer science at several universities, including Istanbul Topkapi University in Turkey, Bandirma Onyedi Eylul University in Turkey, and Klaipeda University in Lithuania, demonstrating his expertise in clear and effective teaching methods. He is knowledgeable in machine learning, image processing, NLP, food safety, and data analysis and is a member of the IEEE and CMC organizations. Additionally, he is a founding member of ABV, a group dedicated to advancing computer science education and inspiring future generations. <br>
+
 Dr. Cifci is a highly motivated and proficient computer engineer, who is passionate about advancing technology. He is a well-regarded researcher in the field of machine learning and has published several papers in sentiment classification, medical image diagnosis, and wireless sensor network optimization. He strives to constantly improve his skills and expand the field. <br>
+
 Computers hold a special place in Dr. Cifci's life, as they serve not only as tools, but also sources of inspiration and meaning. He stays up-to-date with the latest advancements in technology, always eager to learn and innovate. Dr. Cifci's dedication to his work and expertise in machine learning make him a valuable asset to the computer science community. He is honored to be a part of this dynamic and innovative subject, and is determined to find real-world solutions through his research.
 
 <hr>
