@@ -1,6 +1,6 @@
-<h2 align="center"> 🌟 ** Hello Folks! ** 🌟 </h2>
-<h2 align="center"> 🌟 The ~Dev is Mehmet Akif Cifci 🌟 </h2>
-<h3 align="center"> Researcher & Full Stack Developer Extraordinaire 🚀</h3>
+<h2 align="center"> 🌟🇬🇧 Come to London, Habibi! 🇬🇧🌟 </h2>
+<h2 align="center">  Associate Professor Mehmet Akif Cifci  </h2>
+<h4 align="center"> Researcher & Full Stack Developer Extraordinaire </h4>
 
 Associate Professor Mehmet Akif Cifci is a renowned computer scientist and lecturer with a Ph.D. in computer science and over a decade of practical experience. He's presently making headlines at Austria's Tu Wien University, where he's all about pushing the limits of research. Well, not to be humble! he's more than just an academic; he's also profoundly committed to teaching the next generation of computer scientists. 
 
@@ -44,5 +44,3 @@ Dr. Akif's expertise spans various CS fields, encompassing machine learning, ima
 🔗 [SciProfiles](https://sciprofiles.com/profile/2455737)
 🔗 [Web of Science](https://www.webofscience.com/wos/author/record/1793126)
 🔗 [TU Wien Profile](https://www.dap.tuwien.ac.at/person/oid:25266453)
-
-🌟🇬🇧 Come to London, Habibi! 🇬🇧🌟
