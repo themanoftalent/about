@@ -1,21 +1,15 @@
 <h2 align="center"> 🌟HAPPY CODING🌟 </h2>
-<h2 align="center">  Associate Professor Mehmet Akif Cifci  </h2>
-<h4 align="center"> Researcher & Full Stack Developer Extraordinaire </h4>
+<h2 align="center">  Mehmet Akif Cifci</h2>
+<h2 align="center"> Researcher | Data Scientist | Full Stack Developer</h2>
 
-Mehmet Akif Cifci is an accomplished Associate Professor in computer science, currently contributing his expertise at TU Wien, a prestigious university in Austria. He has over 15 years of computer science experience, focusing on artificial intelligence, machine learning, data science, and natural language processing. He holds a Ph.D. in computer engineering from Istanbul Aydin University and a BS in computer science from the University of the People.
-
-As a COO, he oversees the strategic planning, execution, and management of various projects and initiatives that aim to advance the field of AI and its applications. He also leads a team of researchers and developers who work on cutting-edge solutions in medical image processing, full-stack development, and software engineering methods. As a Research Scholar, he conducts innovative and impactful research in AI and ML and publishes his findings in reputable journals and conferences. He is a member of several professional organizations, such as IEEE, ACM, and ABV, and a frequent keynote speaker on AI, digital ethics, and computer science education topics. He is also the founder of WorlDrone Civilian Aerial Vehicles, a company that provides drone-based services and products.
-
-Mehmet Akif Cifci is passionate about finding practical and ethical ways to use AI and ML to solve real-world problems and improve people's lives. He constantly learns new skills and explores new domains, and strives to share his knowledge and experience with others. He is a respected and influential leader, researcher, and educator in the computer science community.
-
+I’m an Associate Professor of Computer Science at TU Wien with over 15 years of experience in AI, machine learning, data science, and natural language processing. I hold a Ph.D. in Computer Engineering from Istanbul Aydin University and a BS from the University of the People.
+As a researcher and COO, I lead AI-driven projects in medical imaging, full-stack development, and software engineering. Passionate about ethical AI, I regularly publish research, speak at conferences, and share insights on Medium.
 
 <hr>
 
--  I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@themanoftalent) 
 
-<hr>
 
-<h1>Skills I have! 📚 </h1>
+<h1>Skills! 📚 </h1>
 <Br>
   
 |![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![Supervised Learning](https://img.shields.io/badge/ML-Supervised%20Learning-brightgreen?style=for-the-badge)|![Unsupervised Learning](https://img.shields.io/badge/ML-Unsupervised%20Learning-brightgreen?style=for-the-badge)|![Web Scraping](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![Dashboards](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
@@ -24,7 +18,7 @@ Mehmet Akif Cifci is passionate about finding practical and ethical ways to use 
   
 <hr>
 
-<h1>Tools I use! 🛠️</h1>
+<h1>Tools 🛠️</h1>
 <Br>
  
 |![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
