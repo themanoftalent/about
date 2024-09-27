@@ -38,5 +38,5 @@ As a researcher and COO, I lead AI-driven projects in medical imaging, full-stac
 🔗 [SciProfiles](https://sciprofiles.com/profile/2455737)
 🔗 [Web of Science](https://www.webofscience.com/wos/author/record/1793126)
 🔗 [TU Wien Profile](https://www.dap.tuwien.ac.at/person/oid:25266453)
-🔗 [Vienna Technical University  Profile](https://ecolopes.org/members)
+🔗 [Vienna Technical University  Profile](https://repositum.tuwien.at/handle/20.500.12708/190443)
 🔗 [Klaipeda University Profile](https://www.kvk.lt/asmuo/mehmet-akif-cifci/)
