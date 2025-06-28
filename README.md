@@ -4,8 +4,6 @@
 
 <h3 align="center">Associate Professor | AI Researcher | Data Scientist | Full Stack Developer</h3>
 
-<p align="center">🔍 Innovation-Driven | 💡 Problem Solver | 📊 Evidence-Based Thinker | 🌍 Globally Connected</p>
-
 ---
 
 
