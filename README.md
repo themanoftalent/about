@@ -1,7 +1,11 @@
 
 
 ---
+<<<<<<< HEAD
 <h1 align="center">Mehmet Akif Cifci</h1>
+=======
+<h1 align="center">Researcher</h1>  
+>>>>>>> 5f34314f0b20bc2b9d2a9fcad12762d0889cfd45
 <h3 align="center">Associate Professor | AI Researcher | Data Scientist | Full Stack Developer</h3>
 
 <p align="center">🔍 Innovation-Driven | 💡 Problem Solver | 📊 Evidence-Based Thinker | 🌍 Globally Connected</p>
