@@ -50,20 +50,64 @@ I contributed as a research partner to **ECOLoPES**, a visionary initiative fund
 
 ---
 
-### 🌐 More 
 
-| Platform | Profile |
-|---------|---------|
-| ORCID | [0000-0002-6439-8826](https://orcid.org/0000-0002-6439-8826) |
-| Kaggle | [Kaggle.com](https://www.kaggle.com/mehmetakifciftci) |
-| LinkedIn | [linkedin.com/in/themanoftalent](https://www.linkedin.com/in/themanoftalent/) |
-| ResearchGate | [researchgate.net/profile/Mehmet-Akif-Cifci](https://www.researchgate.net/profile/Mehmet-Akif-Cifci) |
-| Medium | [medium.com/@themanoftalent](https://medium.com/@themanoftalent) |
-| SciProfiles | [sciprofiles.com/profile/2455737](https://sciprofiles.com/profile/2455737) |
-| Web of Science | [Author Record](https://www.webofscience.com/wos/author/record/1793126) |
-| TU Wien | [Faculty Page](https://www.dap.tuwien.ac.at/person/oid:25266453) |
-| TU Wien Research Repository | [Research Publications](https://repositum.tuwien.at/handle/20.500.12708/190443) |
-| Klaipeda University | [kvk.lt/mehmet-akif-cifci](https://www.kvk.lt/asmuo/mehmet-akif-cifci/) |
+<h2> More </h2>
+
+
+<table style="border-collapse: collapse; width: 85%; text-align: center;">
+  <thead>
+    <tr style="background-color: #2d8659; color: white;">
+      <th style="padding: 10px; border: 1px solid #ccc;">Platform</th>
+      <th style="padding: 10px; border: 1px solid #ccc;">Profile</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f2fff5;">
+      <td style="padding: 10px; border: 1px solid #ccc;">ORCID</td>
+      <td style="padding: 10px; border: 1px solid #ccc;"><a href="https://orcid.org/0000-0002-6439-8826">0000-0002-6439-8826</a></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 10px; border: 1px solid #ccc;">Kaggle</td>
+      <td style="padding: 10px; border: 1px solid #ccc;"><a href="https://www.kaggle.com/mehmetakifciftci">kaggle.com</a></td>
+    </tr>
+    <tr style="background-color: #f2fff5;">
+      <td style="padding: 10px; border: 1px solid #ccc;">LinkedIn</td>
+      <td style="padding: 10px; border: 1px solid #ccc;"><a href="https://www.linkedin.com/in/themanoftalent/">linkedin.com/in/themanoftalent</a></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 10px; border: 1px solid #ccc;">ResearchGate</td>
+      <td style="padding: 10px; border: 1px solid #ccc;"><a href="https://www.researchgate.net/profile/Mehmet-Akif-Cifci">researchgate.net</a></td>
+    </tr>
+    <tr style="background-color: #f2fff5;">
+      <td style="padding: 10px; border: 1px solid #ccc;">Medium</td>
+      <td style="padding: 10px; border: 1px solid #ccc;"><a href="https://medium.com/@themanoftalent">medium.com/@themanoftalent</a></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 10px; border: 1px solid #ccc;">SciProfiles</td>
+      <td style="padding: 10px; border: 1px solid #ccc;"><a href="https://sciprofiles.com/profile/2455737">sciprofiles.com</a></td>
+    </tr>
+    <tr style="background-color: #f2fff5;">
+      <td style="padding: 10px; border: 1px solid #ccc;">Web of Science</td>
+      <td style="padding: 10px; border: 1px solid #ccc;"><a href="https://www.webofscience.com/wos/author/record/1793126">Author Record</a></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 10px; border: 1px solid #ccc;">TU Wien</td>
+      <td style="padding: 10px; border: 1px solid #ccc;"><a href="https://www.dap.tuwien.ac.at/person/oid:25266453">Faculty Page</a></td>
+    </tr>
+    <tr style="background-color: #f2fff5;">
+      <td style="padding: 10px; border: 1px solid #ccc;">TU Wien Repository</td>
+      <td style="padding: 10px; border: 1px solid #ccc;"><a href="https://repositum.tuwien.at/handle/20.500.12708/190443">Research Publications</a></td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 10px; border: 1px solid #ccc;">Klaipeda University</td>
+      <td style="padding: 10px; border: 1px solid #ccc;"><a href="https://www.kvk.lt/asmuo/mehmet-akif-cifci/">kvk.lt</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
 
 ---
 
